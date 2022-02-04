@@ -1,4 +1,4 @@
-name: Check URLs
+https://github.com/shahzebsiddiqui/easybuild/actions/workflows/urlchecker.yml/badge.svg?branch=patch-3&event=repository_dispatchname: Check URLs
 
 on: [push, pull_request]
 jobs:
